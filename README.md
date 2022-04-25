@@ -1,6 +1,3 @@
-# JavaScript-APIs-
-
-
 | First Header  | Second Header |
 | ------------- | ------------- |
 | 0  | Project Setup and Install
