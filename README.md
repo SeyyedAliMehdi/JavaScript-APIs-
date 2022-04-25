@@ -1,8 +1,8 @@
 # JavaScript-APIs
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
+| #  | $ |
+| ------------- | ------------- |Cancel changes
 | 0  | Project Setup and Install |
 | 1  | Feature Detecting the Drag and Drop API |
 | 2  | Declaring a Draggable Element |
